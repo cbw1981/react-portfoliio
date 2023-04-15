@@ -1,12 +1,12 @@
-// import React from 'react';
+import React from 'react';
 
-// const PageContent = (props) => {
+const PageContent = (props) => {
 
-//   return (
-//     <div>
-//       {props.children}
-//     </div>
-//   );
-// };
+  return (
+    <div>
+      {props.children}
+    </div>
+  );
+};
 
-// export default PageContent;
+export default PageContent;
